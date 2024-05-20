@@ -29,5 +29,5 @@ pip install -r requirements.txt
 ### Debug
 
 ```bash
-flask --app upload run --debug
+flask --app upload run --debug --port 8000
 ```
