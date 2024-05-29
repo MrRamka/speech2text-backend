@@ -31,3 +31,8 @@ pip install -r requirements.txt
 ```bash
 flask --app upload run --debug --port 8000
 ```
+
+### Testing
+```bash
+pytest tests
+```
